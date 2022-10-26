@@ -51,7 +51,7 @@ social-network-links:
   github: nickyjgarland
   twitter: Nicky_Garland
   ORCID: https://orcid.org/0000-0002-6789-0779
-  google-scholar: your google scholar
+  google-scholar: https://scholar.google.com/citations?user=jreSyccAAAAJ&hl=en
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -86,7 +86,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "nickyjgarland.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -239,7 +239,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Europe/London"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
