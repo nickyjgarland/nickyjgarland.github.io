@@ -22,7 +22,7 @@ author: Nicky Garland
 navbar-links:
   About Me: "aboutme"
   Publications: "pubs"
-  
+  Presentations: "pres"
 
 ################
 # --- Logo --- #
@@ -30,7 +30,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/NGarland_171022.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -51,7 +51,7 @@ social-network-links:
   github: nickyjgarland
   twitter: Nicky_Garland
   ORCID: https://orcid.org/0000-0002-6789-0779
-  google-scholar: https://scholar.google.com/citations?user=jreSyccAAAAJ&hl=en
+  google-scholar: https://scholar.google.co.uk/citations?hl=en&user=jreSyccAAAAJ
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
