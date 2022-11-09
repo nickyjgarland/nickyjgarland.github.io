@@ -2,7 +2,9 @@
 title: Presentations
 ---
 
-I regularly present my research at conferences, public events and in academic institutions. Below is a list of the presentations I have given since 2009. This list was last updated 06.11.2022
+I regularly present my research at conferences, public events and in academic institutions. Below is a list of the presentations I have given since 2009. This list was last updated 06.11.2022.
+
+I have uploaded some of my presentations to my Research Gate profile which can be found [here](https://www.researchgate.net/profile/Nicky-Garland). If your interested in any others that are not uploaded then feel free to get in touch at the details on footer.
 
 Garland, N. ‘Barriers or Passages? Reinterpreting movement, time and linear earthworks in Iron Age Britain’. Theoretical Archaeology Group Conference - December 2021
 

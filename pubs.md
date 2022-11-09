@@ -2,7 +2,9 @@
 title: Publications
 ---
 
-This is a full list of my current publications, including forthcoming articles. This was last updated 06.11.2022
+This is a full list of my current publications, including forthcoming articles. This was last updated 06.11.2022.
+
+Many of these article and book chapters are available open-access. I have uploaded some of my publications to my Research Gate profile which can be found [here](https://www.researchgate.net/profile/Nicky-Garland). If your interested in any others that are not uploaded then feel free to get in touch at the details on footer.
 
 ## Forthcoming
 
